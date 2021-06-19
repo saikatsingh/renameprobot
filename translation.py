@@ -12,13 +12,13 @@ class Translation( object ):
     START_TEXT = "Hello.. <b>{}</b>\n\n<b>Myself:</b> {}\n\n<b>I can do a lot of things with your files</b>\n\n" \
                  "<i>Send filename + extension (Eg: terminator.mkv) as a reply to any telegram media, and follow " \
                  "Bot's instructions.</i>\n\n" \
-                 "<b>My Author is: </b><a href='https://t.me/space4renjith'>                HERE</a>\n" \
-                 "<b>My code can be seen: </b><a href='https://github.com/m4mallu/renameprobot'> HERE</a>\n\n" \
+                 "<b>My Channel: </b><a href='https://t.me/MoviZenX'>                HERE</a>\n" \
+                 "<b>My Group: </b><a href='https://t.me/MoviZenix'> HERE</a>\n\n" \
                  "<i> Have a nice day</i> 😍"
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
                     "clear it !</code> "
-    NO_THUMB = "⛔️ <b>No thumbnails available.</b>\n<code>Upload an image to save it !" \
+    NO_THUMB = "⛔️ <b>thumbnails available nehi h.</b>\n<code>Upload an image to save it !" \
                "!</code> "
     DEL_CUSTOM_THUMB_NAIL = "✅ <b>Thumbnail cleared successfully.</b>\n<code>Thumbnail won't be available to the " \
                             "downloading media, unless you upload an image !</code> "
